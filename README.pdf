@@ -1,0 +1,805 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 6 0 R
+ /F4 8 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/ericflo/django-pagination) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 187.9128
+ 666.7736
+ 308.3948
+ 678.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://code.google.com/p/django-pagination/issues/detail?id=45) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 121.9428
+ 654.7736
+ 401.8228
+ 666.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+6 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R ]
+ /Contents 18 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 17 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+8 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 19 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 17 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R10': class PDFCatalog 
+10 0 obj
+% Document Root
+<< /Outlines 12 0 R
+ /PageLabels 20 0 R
+ /PageMode /UseNone
+ /Pages 17 0 R
+ /Type /Catalog >>
+endobj
+% 'R11': class PDFInfo 
+11 0 obj
+<< /Author ()
+ /CreationDate (D:20120110160417-04'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (django-pagination - pagination without modifying views) >>
+endobj
+% 'R12': class PDFOutlines 
+12 0 obj
+<< /Count 4
+ /First 13 0 R
+ /Last 16 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (This fork notes) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 630.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Installation) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 549.1441
+ 0 ]
+ /Next 16 0 R
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Usage) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 467.4236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 15 0 R
+ /Title (Optional Settings) >>
+endobj
+% 'R17': class PDFPages 
+17 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 7 0 R
+ 9 0 R ]
+ /Type /Pages >>
+endobj
+% 'R18': class PDFStream 
+18 0 obj
+% page stream
+<< /Length 5972 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 50.49488 0 Td (django-pagination - pagination without) Tj T* 106.65 0 Td (modifying views) Tj T* -157.1449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (This fork notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .925984 Tw 12 TL /F1 10 Tf 0 0 0 rg (This fork was created from ) Tj 0 0 .501961 rg (ericflo's django-pagination ) Tj 0 0 0 rg (to fix i18n support and to add Russian translation) Tj T* 0 Tw 5.174961 Tw (from issue ) Tj 0 0 .501961 rg (http://code.google.com/p/django-pagination/issues/detail?id=45) Tj 0 0 0 rg (. Also I outputed orifginal) Tj T* 0 Tw (instructions to this Readme file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This fork can be easily installed with pip:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.1441 cm
+q
+q
+.868237 0 0 .868237 0 0 cm
+q
+1 0 0 1 6.6 7.601613 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 540 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (pip install -e git+git://github.com/alekseyr/django-pagination.git#egg=django-pagination) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 528.1441 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.1441 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (django-pagination ) Tj /F1 10 Tf (allows for easy Digg-style pagination without modifying your views.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.1441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .940542 Tw (There are really 5 steps to setting it up with your projects \(not including installation, which is covered in) Tj T* 0 Tw (INSTALL.txt in this same directory.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.1441 cm
+Q
+q
+1 0 0 1 62.69291 474.1441 cm
+Q
+q
+1 0 0 1 62.69291 380.9441 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 78.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 66.2 cm
+q
+BT 1 0 0 1 0 14 Tm 1.354269 Tw 12 TL /F1 10 Tf 0 0 0 rg (List this application in the ) Tj /F3 10 Tf (INSTALLED_APPS ) Tj /F1 10 Tf (portion of your settings file. Your settings file might) Tj T* 0 Tw (look something like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F3 10 Tf 12 TL (INSTALLED_APPS = \() Tj T* (    # ...) Tj T* (    'pagination',) Tj T* (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 374.9441 cm
+Q
+q
+1 0 0 1 62.69291 293.7441 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 66.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Install the pagination middleware. Your settings file might look something like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F3 10 Tf 12 TL (MIDDLEWARE_CLASSES = \() Tj T* (    # ...) Tj T* (    'pagination.middleware.PaginationMiddleware',) Tj T* (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 287.7441 cm
+Q
+q
+1 0 0 1 62.69291 170.5441 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 102.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 78.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.057984 Tw (If it's not already added in your setup, add the request context processor. Note that context) Tj T* 0 Tw 1.309398 Tw (processors are set by default implicitly, so to set them explicitly, you need to copy and paste this) Tj T* 0 Tw (code into your under the value TEMPLATE_CONTEXT_PROCESSORS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F3 10 Tf 12 TL (\("django.core.context_processors.auth",) Tj T* ("django.core.context_processors.debug",) Tj T* ("django.core.context_processors.i18n",) Tj T* ("django.core.context_processors.media",) Tj T* ("django.core.context_processors.request"\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.5441 cm
+Q
+q
+1 0 0 1 62.69291 164.5441 cm
+Q
+q
+1 0 0 1 62.69291 164.5441 cm
+Q
+q
+1 0 0 1 62.69291 119.3441 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add this line at the top of your template to load the pagination tags:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ({% load pagination_tags %}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 113.3441 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21.47791 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 9.477913 cm
+q
+BT 1 0 0 1 0 14 Tm .540574 Tw 12 TL /F1 10 Tf 0 0 0 rg (Decide on a variable that you would like to paginate, and use the autopaginate tag on that variable ) Tj T* 0 Tw .419985 Tw (before iterating over it. This could take one of two forms \(using the canonical ) Tj /F3 10 Tf (object_list ) Tj /F1 10 Tf (as an) Tj T* 0 Tw ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R19': class PDFStream 
+19 0 obj
+% page stream
+<< /Length 5268 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 610.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 141.4 Tm  T* ET
+q
+1 0 0 1 23 139.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (example variable\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 106.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ({% autopaginate object_list %}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 68.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .263672 Tw (This assumes that you would like to have the default 20 results per page. If you would like to specify) Tj T* 0 Tw (your own amount of results per page, you can specify that like so:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 35 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ({% autopaginate object_list 10 %}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .571163 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that this replaces ) Tj /F3 10 Tf (object_list ) Tj /F1 10 Tf (with the list for the current page, so you can iterate over the) Tj T* 0 Tw /F3 10 Tf (object_list ) Tj /F1 10 Tf (like you normally would.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 604.6236 cm
+Q
+q
+1 0 0 1 62.69291 509.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 80.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 68.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .312485 Tw (Now you want to display the current page and the available pages, so somewhere after having used) Tj T* 0 Tw (autopaginate, use the paginate inclusion tag:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 35 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ({% paginate %}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .702651 Tw (This does not take any arguments, but does assume that you have already called autopaginate, so) Tj T* 0 Tw (make sure to do so first.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 509.4236 cm
+Q
+q
+1 0 0 1 62.69291 479.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .404104 Tw 12 TL /F1 10 Tf 0 0 0 rg (That's it! You have now paginated ) Tj /F3 10 Tf (object_list ) Tj /F1 10 Tf (and given users of the site a way to navigate between) Tj T* 0 Tw (the different pages--all without touching your views.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Optional Settings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 416.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .755318 Tw (In django-pagination, there are no required settings. There are, however, a small set of optional settings) Tj T* 0 Tw (useful for changing the default behavior of the pagination tags. Here's an overview:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PAGINATION_DEFAULT_PAGINATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The default amount of items to show on a page if no number is specified.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 369.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PAGINATION_DEFAULT_WINDOW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The number of items to the left and to the right of the current page to display \(accounting for ellipses\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 338.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PAGINATION_DEFAULT_ORPHANS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 290.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 35.2 Tm  T* ET
+q
+1 0 0 1 20 33.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The number of orphans allowed. According to the Django documentation, orphans are defined as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (The minimum number of items allowed on the last page, defaults to zero.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 274.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PAGINATION_INVALID_PAGE_RAISES_404) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 247.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.399982 Tw 12 TL /F1 10 Tf 0 0 0 rg (Determines whether an invalid page raises an ) Tj /F3 10 Tf (Http404 ) Tj /F1 10 Tf (or just sets the ) Tj /F3 10 Tf (invalid_page ) Tj /F1 10 Tf (context) Tj T* 0 Tw (variable. ) Tj /F3 10 Tf (True ) Tj /F1 10 Tf (does the former and ) Tj /F3 10 Tf (False ) Tj /F1 10 Tf (does the latter.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R20': class PDFPageLabels 
+20 0 obj
+% Document Root
+<< /Nums [ 0
+ 21 0 R
+ 1
+ 22 0 R ] >>
+endobj
+% 'R21': class PDFPageLabel 
+21 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R22': class PDFPageLabel 
+22 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 23
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000597 00000 n
+0000000859 00000 n
+0000001127 00000 n
+0000001286 00000 n
+0000001595 00000 n
+0000001764 00000 n
+0000002044 00000 n
+0000002203 00000 n
+0000002505 00000 n
+0000002630 00000 n
+0000002805 00000 n
+0000002992 00000 n
+0000003172 00000 n
+0000003333 00000 n
+0000003448 00000 n
+0000009519 00000 n
+0000014890 00000 n
+0000014996 00000 n
+0000015073 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(54\321\217_/\254\331"\266s~\354/\375\\) (54\321\217_/\254\331"\266s~\354/\375\\)] 
+
+ /Info 11 0 R
+ /Root 10 0 R
+ /Size 23 >>
+startxref
+15120
+%%EOF
